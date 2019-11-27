@@ -2,4 +2,4 @@
 
 echo "Nothing to do"
 
-chmod a+x run.sh
+chmod a+x /tmp/src/run.sh
